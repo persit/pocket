@@ -6,6 +6,7 @@ int main()
     char str[5];
     char str2[]={"123456789909090"};
     strcpy(str,str2);
+    printf{“hello氨基酸地方}
     printf("%s\n",str);
     return 0;
 }
